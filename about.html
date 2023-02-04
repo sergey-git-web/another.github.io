@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "「他单纯只想把日子过得不浪费」"
-header-img: "img/bg-me-2022.jpg"
+description: "About description"
+header-img: "img/bg-cat.jpeg"
 header-mask: 0.3
 multilingual: true
 ---
@@ -10,9 +10,9 @@ multilingual: true
 {% include multilingual-sel.html %}
 
 <!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+<div class="ru post-container">
+    {% capture about_ru %}{% include about/ru.md %}{% endcapture %}
+    {{ about_ru | markdownify }}
 </div>
 
 <!-- English Version -->
