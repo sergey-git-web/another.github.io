@@ -5,7 +5,7 @@ header-img: img/home-bg.jpeg
 email: sergey.git.web@gmail.com
 description: "Документируем свою жизнь"
 keyword: "travel, cooking, 3D printing"
-url: "" # your host, for absolute URL
+url: "https://sergey-git-web.github.io" # your host, for absolute URL
 baseurl: "/another.github.io" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
