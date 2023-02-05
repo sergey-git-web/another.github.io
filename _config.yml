@@ -1,10 +1,10 @@
 # Site settings
-title: Our blog
+title: Blog
 SEOTitle: WHAT IS IT | Our blog
 header-img: img/home-bg.jpeg
 email: sergey.git.web@gmail.com
 description: "Документируем свою жизнь"
-keyword: "travel, cooking, 3D printing"
+keyword: "travel, cooking, photo, 3D printing"
 url: "https://sergey-git-web.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -70,10 +70,6 @@ disqus_username:
 
 # Netease settings
 netease_comment: false
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
 
 # Google Analytics
 #ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
