@@ -15,10 +15,12 @@ future: true
 RSS: false
 instagram_username: tominsi
 github_username: sergey-git-web
+email_username: sergey.git.web@gmail.com
 #twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
-
+telegram: https://t.me/+guC7t6KkQbNiZWFi
+youtube_username: sergey-travel
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
@@ -48,7 +50,6 @@ plugins: [jekyll-paginate]
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 # Conversion
 markdown: kramdown
-highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
