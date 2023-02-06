@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Tomin's tales",
+  "short_name": "TominTales",
+  "description": "Tales about our family",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

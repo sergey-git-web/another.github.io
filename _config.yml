@@ -76,11 +76,7 @@ netease_comment: false
 #ga_track_id: "G-P2XBWNVF7T"
 #ga_domain: tomintales.com
 # Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : "G-P2XBWNVF7T"
-    anonymize_ip         : # true, false (default)
+google_analytics: G-P2XBWNVF7
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
