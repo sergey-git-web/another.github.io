@@ -78,7 +78,7 @@ Bay Area — это живописный регион, сочетающий в �
 Долина Смерти также известна как одно из лучший мест для астрофотографии. Ночи здесь особенно темные. Идеально для фотографии Млечного Пути.
 
 <div class="photo-grid">
-  <a href="{{site.baseurl}}/img/8_death_valley/DSC00638.jpeg" data-lightbox="gallery" data-title="Caption 2">
+  <a href="{{site.baseurl}}/img/8_death_valley/DSC00638.jpeg" data-lightbox="gallery" data-title="Дорога в пустыне">
     <img src="{{site.baseurl}}/img/8_death_valley/DSC00638.jpeg" alt="Дорога в пустыне">
   </a>
   <a href="{{site.baseurl}}/img/8_death_valley/DSC00675.jpeg" data-lightbox="gallery" data-title="Закат над песками">
