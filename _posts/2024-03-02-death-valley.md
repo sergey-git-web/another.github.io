@@ -31,7 +31,7 @@ tags:
 Bay Area — это живописный регион, сочетающий в себе урбанистику Сан-Франциско и суровую красоту побережья Тихого океана. Среди моих первых впечатлений — безграничный океанский горизонт, тихая красота маяка Pigeon Point и мощь моста Золотые Ворота. Конечно, особый шарм добавил мой арендованный Dodge Challenger, идеально вписавшийся в эту поездку :) 
 
 <div class="photo-grid">
-  <a href="{{site.baseurl}}/img/8_death_valley/DSC00173-Enhanced-NR.jpeg" data-lightbox="gallery" data-title="Caption 1">
+  <a href="{{site.baseurl}}/img/8_death_valley/DSC00173-Enhanced-NR.jpeg" data-lightbox="gallery" data-title="Калибри">
     <img src="{{site.baseurl}}/img/8_death_valley/DSC00173-Enhanced-NR.jpeg" alt="Калибри">
   </a>
   <a href="{{site.baseurl}}/img/8_death_valley/DSC07343.jpeg" data-lightbox="gallery" data-title="Побережье Тихого Океана">
