@@ -1694,3 +1694,22 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+
+/* Photo Grid Custom Styles */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.photo-grid img:hover {
+  transform: scale(1.2);
+}

@@ -44,13 +44,16 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ " /assets/css/bootstrap.min.css" | prepend: site.baseurl }}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/assets/css/hux-blog.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ " /assets/css/hux-blog.css" | prepend: site.baseurl }}">
 
     <!-- Custom Fonts -->
-    <link rel="stylesheet" href="{{ "/assets/css/fontawesome.all.min.css" | prepend: site.baseurl }}">
+    <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
+    <!-- Hux change font-awesome CDN to qiniu -->
+    <!-- <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet"  type="text/css"> -->
+    <link href="/assets/css/fontawesome.all.min.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -59,13 +62,16 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <!-- ga & ba script hook -->
+    <!-- ga & ba script hoook -->
     <script></script>
 
     <!-- Google AdSense -->
     <!-- <script data-ad-client="ca-pub-6487568398225121" async                           -->
     <!--    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
     
-    <!-- Add Lightbox2 CSS -->
+    <!-- Add Lightbox2 CSS --> 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet">
+    
+    <!-- Add Lightbox2 JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
 </head>
