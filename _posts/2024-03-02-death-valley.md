@@ -30,16 +30,16 @@ tags:
 
 Bay Area — это живописный регион, где урбанистика Сан-Франциско сочетается с красотой побережья Тихого океана и величественными гигантскими секвойями. Среди моих неизменных впечатлений от Калифорнии — безграничный океан, спокойствие маяка Pigeon Point (я посещаю его при каждом визите) и легендарный мост Золотые Ворота.
 
-В этот приезд мне особенно повезло: я арендовал жильё с уютным садом, где обитали калибри! Эти удивительные создания оказались настоящим подарком для фотографа. К счастью, я взял с собой свою линзу Sigma 100-400 мм, что позволило запечатлеть пару хороших кадров. 
+В этот приезд мне особенно повезло: я арендовал жильё с уютным садом, где обитали колибри! Эти удивительные создания оказались настоящим подарком для фотографа. К счастью, я взял с собой свою линзу Sigma 100-400 мм, что позволило запечатлеть пару хороших кадров. 
 
 И, конечно, как же в Америке без машины? На этот раз мне достался Dodge Challenger — автомобиль, который стал неотъемлемой частью моего путешествия. Его мощь и стиль идеально дополнили атмосферу Калифорнии. :)
 
 <div class="photo-grid">
-  <a href="{{site.baseurl}}/img/8_death_valley/DSC00173-Enhanced-NR.jpeg" data-lightbox="gallery" data-title="Калибри">
-    <img src="{{site.baseurl}}/img/8_death_valley/DSC00173-Enhanced-NR.jpeg" alt="Калибри">
+  <a href="{{site.baseurl}}/img/8_death_valley/DSC00173-Enhanced-NR.jpeg" data-lightbox="gallery" data-title="Колибри">
+    <img src="{{site.baseurl}}/img/8_death_valley/DSC00173-Enhanced-NR.jpeg" alt="Колибри">
   </a>
-  <a href="{{site.baseurl}}/img/8_death_valley/DSC00126.jpeg" data-lightbox="gallery" data-title="Калибри 2">
-    <img src="{{site.baseurl}}/img/8_death_valley/DSC00126.jpeg" alt="Калибри 2">
+  <a href="{{site.baseurl}}/img/8_death_valley/DSC00126.jpeg" data-lightbox="gallery" data-title="Колибри 2">
+    <img src="{{site.baseurl}}/img/8_death_valley/DSC00126.jpeg" alt="Колибри 2">
   </a>
   <a href="{{site.baseurl}}/img/8_death_valley/DSC07343.jpeg" data-lightbox="gallery" data-title="Побережье Тихого Океана">
     <img src="{{site.baseurl}}/img/8_death_valley/DSC07343.jpeg" alt="Побережье Тихого Океана">
